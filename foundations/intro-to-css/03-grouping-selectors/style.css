@@ -1,1 +1,9 @@
-/* Add CSS Styling */
+.button-one {
+background-color: #000000; color: #fff;
+}
+.button-two {
+background-color: #ffCC00;
+}
+.button-one, .button-two {
+    font-size: 40px; font-family: "Helvetica", sans-serif;
+}
