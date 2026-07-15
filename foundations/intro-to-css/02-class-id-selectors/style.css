@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.odd-numbered-elm, .third-elm {
+    background-color: #de1469; font-family: "DejaVu Sans", "Verdana", sans-serif;
+}
+.third-elm {
+    font-size: 24px;
+}
+.second-elm {
+    font-size: 36px; color: blue;
+}
+.fourth-elm {
+    background-color: #59ff00; font-size: 24px;
+    font-weight: 700;
+}
